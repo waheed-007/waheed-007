@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Waheed%20Uddin&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20PostgreSQL%20%C2%B7%20Cloud%20Platforms&descAlignY=55&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+production-grade+web+platforms;E-learning+%C2%B7+Payments+%C2%B7+Dashboards+%C2%B7+Auth;Shipping+clean%2C+scalable+full-stack+apps" alt="Typing SVG" />
-</div>
+<h1 align="center">Waheed Uddin 👨‍💻</h1>
+
+<h3 align="center">Full-Stack Developer | Next.js · TypeScript · PostgreSQL · Cloud Platforms</h3>
+
+<p align="center"><i>Building production-grade web platforms — E-learning · Payments · Dashboards · Auth</i></p>
 
 ---
 
