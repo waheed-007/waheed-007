@@ -96,8 +96,8 @@ Full-Stack Developer | Jul 2025 – Present (1 year)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waheed-007&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheed-007&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waheed-007&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waheed-007&theme=github_dark" height="180"/>
 </div>
 
 <div align="center">
