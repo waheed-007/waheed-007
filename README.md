@@ -62,6 +62,28 @@ Full-Stack Developer at **Cloud Computing Promoters (CCP)** — Chicago (remote)
 
 ---
 
+## 💼 Experience
+
+```
+Cloud Computing Promoters (CCP) — Chicago (Remote)
+Full-Stack Developer | Jul 2025 – Present (1 year)
+
+• Built CCP Academy — full e-learning platform (courses, live classes,
+  attendance, certificates, Stripe + PayPal checkout)
+• Developed and maintain the CCPromoters corporate website
+• End-to-end ownership: frontend, backend, database, payments & deployment
+```
+
+---
+
+## 🎓 Education
+
+| Degree | Field |
+|--------|-------|
+| **B.Com** — Bachelor of Commerce | Commerce & Business |
+
+---
+
 ## 🚀 Featured Work
 
 | Project | Description | Stack |
