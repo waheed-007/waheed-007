@@ -20,7 +20,7 @@
 
 Full-Stack Developer at **Cloud Computing Promoters (CCP)** — Chicago (remote). I own products end-to-end: design systems and pixel-level frontends, Postgres schemas and row-level security, payment flows, transactional email, and the deploy pipeline that ships it all.
 
-- 🏗️ Building **CCP Academy** — e-learning platform: courses, live classes, attendance, PDF certificates, Stripe checkout
+- 🏗️ Building **[CCP Academy](https://github.com/waheed-007/CCPACADEMY-)** — e-learning platform: courses, live classes, attendance, PDF certificates, Stripe checkout
 - 🌐 Shipped **[CCPromoters](https://ccpromoters.com)** — corporate platform for a civil staffing firm (services, careers, case studies, insights)
 - 🕌 Shipped **AbuHurairah Academy** — site for an Islamic elementary & middle school in Lombard, IL
 - 🛍️ Shipped **Libas-ut-Taqwa** — modest-wear storefront with cart, checkout and order flow
@@ -111,11 +111,11 @@ Full-Stack Developer at **Cloud Computing Promoters (CCP)** — Chicago (remote)
   </tr>
   <tr>
     <td>
-      🎓 <b>CCP Academy</b><br/>
-      <sub><i>private repo</i></sub>
+      🎓 <b><a href="https://github.com/waheed-007/CCPACADEMY-">CCP Academy</a></b><br/>
+      <sub><i>flagship</i></sub>
     </td>
-    <td>Full e-learning platform — course catalogue, live classes, student &amp; admin dashboards, attendance tracking, generated PDF certificates, Stripe checkout with PayPal fallback.</td>
-    <td><sub>Next.js · TypeScript · Tailwind · PostgreSQL · Stripe · Three.js · GSAP</sub></td>
+    <td>Full e-learning platform — course catalogue, live classes, student &amp; admin dashboards, attendance tracking, generated PDF certificates, and Stripe checkout with PayPal fallback.</td>
+    <td><sub>Next.js · TypeScript · Tailwind · PostgreSQL · Stripe · Three.js · GSAP · Lenis · jsPDF</sub></td>
   </tr>
   <tr>
     <td>
