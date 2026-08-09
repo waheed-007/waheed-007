@@ -22,8 +22,8 @@ Full-Stack Developer at **Cloud Computing Promoters (CCP)** — Chicago (remote)
 
 - 🏗️ Building **CCP Academy** — e-learning platform: courses, live classes, attendance, PDF certificates, Stripe checkout
 - 🌐 Shipped **[CCPromoters](https://ccpromoters.com)** — corporate platform for a civil staffing firm (services, careers, case studies, insights)
-- 🕌 Shipped **Abu Hurairah Academy** — Qur'an & Islamic studies academy site with WebGL + GSAP motion
-- 🛍️ Shipped **Libas-ut-Taqwa** — modest-wear storefront
+- 🕌 Shipped **AbuHurairah Academy** — site for an Islamic elementary & middle school in Lombard, IL
+- 🛍️ Shipped **Libas-ut-Taqwa** — modest-wear storefront with cart, checkout and order flow
 - 🧩 Backend of choice: **InsForge** — Postgres + PostgREST + storage + edge functions, with SQL migrations checked into the repo
 - 📍 Chicago (remote) · Open to interesting product work
 
@@ -127,16 +127,18 @@ Full-Stack Developer at **Cloud Computing Promoters (CCP)** — Chicago (remote)
   </tr>
   <tr>
     <td>
-      🕌 <b><a href="https://github.com/waheed-007/Abuhurairahacademy">Abu Hurairah Academy</a></b>
+      🕌 <b><a href="https://github.com/waheed-007/Abuhurairahacademy">AbuHurairah Academy</a></b><br/>
+      <sub><i>Lombard, IL</i></sub>
     </td>
-    <td>Marketing site for a Qur'an &amp; Islamic studies academy — programs, admissions, and enquiry flow, built around a WebGL background and scroll-driven motion.</td>
+    <td>Site for an Islamic elementary &amp; middle school — programs, summer camp, gallery and enquiry flow, built around a WebGL background and GSAP scroll motion.</td>
     <td><sub>React · Vite · TypeScript · InsForge · GSAP · OGL (WebGL) · EmailJS</sub></td>
   </tr>
   <tr>
     <td>
-      🛍️ <b><a href="https://github.com/waheed-007/Abaya-store">Libas-ut-Taqwa</a></b>
+      🛍️ <b><a href="https://github.com/waheed-007/Abaya-store">Libas-ut-Taqwa</a></b><br/>
+      <sub><i>Chicago, IL</i></sub>
     </td>
-    <td>Storefront for a Chicago women's modest-wear label — catalogue, product pages, and enquiry-to-order flow.</td>
+    <td>Modest-wear storefront — shop and category browsing, product pages, cart, checkout, customer accounts and order confirmation.</td>
     <td><sub>React · TypeScript · InsForge · React Router</sub></td>
   </tr>
 </table>
